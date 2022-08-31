@@ -3,5 +3,5 @@ const initBoard = () => {
 }
 
 export {
-  initBoard
+  initBoard,
 }
